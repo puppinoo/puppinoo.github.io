@@ -1,6 +1,6 @@
 {    
     "name": "Start StremioMSX",
     "version": "1.0.0",
-    "parameter": "content:https://puppinoo.github.io/msx/data/content.json",
+    "parameter": "content:https://puppinoo.github.io/data/content.json",
     "welcome": "none"
 }
